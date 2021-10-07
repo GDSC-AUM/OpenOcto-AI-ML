@@ -22,7 +22,7 @@ Follow these guidelines to make your and the repositoriy maintainer's work simpl
     - A short description of the program. [[<Reference Source Name>](link to the reference webpage)]
     ```
 
-- Check [here](https://raw.githubusercontent.com/GDSC-AUM/OpenOcto-AI-ML) to see an example.
+- Check [here](https://github.com/GDSC-AUM/OpenOcto-AI-ML/blob/main/example/stock_price_sentiment_analysis.ipynb) to see an example.
 
 ### A New Program?
 
@@ -34,12 +34,12 @@ Follow these guidelines to make your and the repositoriy maintainer's work simpl
 
 - Please name you files with lowercase letters and word seperated by underscores (**snake case**)
 
-    ```cpp
-    SieveOfEratosthenes.cpp ❌
+    ```py
+    SentimentAnalysis.ipynb ❌
     ```
 
-    ```cpp
-    sieve_of_eratosthenes.cpp ✅
+    ```py
+    sentiment_analysis.ipynb ✅
     ```
 
 - Update the appropriate `DOC.md` file to include the new program to the list (use the template provided above to do so).
