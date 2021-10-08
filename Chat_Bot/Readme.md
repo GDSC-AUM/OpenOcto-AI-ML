@@ -4,4 +4,4 @@
 
 - Checkout <a href="https://github.com/GDSC-AUM/OpenOcto-AI-ML/blob/main/example/example.ipynb">Example</a> for referring format of project code.
 
-- You can select your own dataset for this project.
+- You can select your own dataset for this project or you can take reference from NLTK(Natural Language Tool Kit) datasets.
