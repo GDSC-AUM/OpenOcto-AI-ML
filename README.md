@@ -1,5 +1,7 @@
 # OpenOcto - Artificial Intelligence / Machine Learning
 
+![OpenOcto](./LOGO.png)
+
 Machine Learning models for everyone from new beginners to experts.
 
 Code here directly using Gitpod!
